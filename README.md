@@ -1,2 +1,1 @@
-begin
-next test
+- ssh_bad_passwords_list.txt = this lists all the passwords used by bad actors sorted by count descending. NEVER use these passwords
