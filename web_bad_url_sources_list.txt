@@ -1,0 +1,30 @@
+systembc
+128.199.23.56 -  GeoIP Country Edition: SG, Singapore -  
+134.122.80.36 -  GeoIP Country Edition: US, United States -  
+144.126.236.85 -  GeoIP Country Edition: US, United States -  
+157.230.223.141 -  GeoIP Country Edition: US, United States -  
+159.65.159.214 -  GeoIP Country Edition: IN, India -  
+165.22.189.140 -  GeoIP Country Edition: US, United States -  
+167.99.114.204 -  GeoIP Country Edition: US, United States -  
+167.99.250.174 -  GeoIP Country Edition: DE, Germany -  
+170.64.167.44 -  GeoIP Country Edition: US, United States -   1483180.cloudwaysapps.com.
+178.62.227.201 -  GeoIP Country Edition: NL, Netherlands -  
+204.188.197.116 -  GeoIP Country Edition: US, United States -  
+204.188.197.65 -  GeoIP Country Edition: US, United States -  
+204.188.197.93 -  GeoIP Country Edition: US, United States -  
+206.189.11.171 -  GeoIP Country Edition: NL, Netherlands -   winsane83720.com.
+209.38.90.32 -  GeoIP Country Edition: US, United States -  
+209.38.99.66 -  GeoIP Country Edition: US, United States -  
+45.58.159.164 -  GeoIP Country Edition: US, United States -   customer.sharktech.net.
+45.58.159.209 -  GeoIP Country Edition: US, United States -   customer.sharktech.net.
+45.58.159.74 -  GeoIP Country Edition: US, United States -   customer.sharktech.net.
+68.183.197.169 -  GeoIP Country Edition: CA, Canada -  
+
+wget
+120.28.168.233 -  GeoIP Country Edition: PH, Philippines -  
+141.98.11.147 -  GeoIP Country Edition: LT, Lithuania -  
+195.3.221.137 -  GeoIP Country Edition: PL, Poland -   smtp9.munxkey.com.com.
+222.141.154.166 -  GeoIP Country Edition: CN, China -   hn.kd.ny.adsl.
+45.135.194.34 -  GeoIP Country Edition: DE, Germany -  
+87.121.84.34 -  GeoIP Country Edition: BG, Bulgaria -  
+
