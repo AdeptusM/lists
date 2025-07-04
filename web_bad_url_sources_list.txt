@@ -1,4 +1,4 @@
-systembc
+--systembc
 128.199.23.56 -  GeoIP Country Edition: SG, Singapore -  
 134.122.80.36 -  GeoIP Country Edition: US, United States -  
 144.126.236.85 -  GeoIP Country Edition: US, United States -  
@@ -20,11 +20,24 @@ systembc
 45.58.159.74 -  GeoIP Country Edition: US, United States -   customer.sharktech.net.
 68.183.197.169 -  GeoIP Country Edition: CA, Canada -  
 
-wget
+--wget
 120.28.168.233 -  GeoIP Country Edition: PH, Philippines -  
 141.98.11.147 -  GeoIP Country Edition: LT, Lithuania -  
 195.3.221.137 -  GeoIP Country Edition: PL, Poland -   smtp9.munxkey.com.com.
 222.141.154.166 -  GeoIP Country Edition: CN, China -   hn.kd.ny.adsl.
 45.135.194.34 -  GeoIP Country Edition: DE, Germany -  
 87.121.84.34 -  GeoIP Country Edition: BG, Bulgaria -  
+
+--luci/.stok=/
+141.98.11.147 -  GeoIP Country Edition: LT, Lithuania -  
+141.98.11.83 -  GeoIP Country Edition: LT, Lithuania -   srv-141-98-11-83.serveroffer.net.
+176.65.148.10 -  GeoIP Country Edition: DE, Germany -   hosted-by.pfcloud.io.
+195.3.221.137 -  GeoIP Country Edition: PL, Poland -   smtp9.munxkey.com.com.
+34.136.182.154 -  GeoIP Country Edition: US, United States -   154.182.136.34.bc.googleusercontent.com.
+34.9.27.97 -  GeoIP Country Edition: US, United States -   97.27.9.34.bc.googleusercontent.com.
+45.135.194.34 -  GeoIP Country Edition: DE, Germany -  
+5.183.209.244 -  GeoIP Country Edition: RO, Romania -  
+87.121.84.179 -  GeoIP Country Edition: BG, Bulgaria -  
+87.121.84.34 -  GeoIP Country Edition: BG, Bulgaria -  
+89.42.231.140 -  GeoIP Country Edition: RO, Romania -  
 

