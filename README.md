@@ -1,2 +1,4 @@
 - ssh_bad_passwords_list.txt = this lists all the passwords used by bad actors sorted by count descending. NEVER use these passwords
 - ssh_bad_sources_list.txt = this lists all the source ip of bad actors with geoip and dns info where available
+- web_bad_url_details_list.txt = this lists details of bad urls presented
+- web_bad_url_sources_list.txt = this lists the details of the source ips which presented bad urls
