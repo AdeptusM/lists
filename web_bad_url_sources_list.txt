@@ -8,6 +8,7 @@
 144.126.236.85 -  GeoIP Country Edition: US, United States -  
 146.190.112.123 -  GeoIP Country Edition: US, United States -  
 146.190.124.10 -  GeoIP Country Edition: US, United States -  
+157.230.130.80 -  GeoIP Country Edition: US, United States -  
 157.230.223.141 -  GeoIP Country Edition: US, United States -  
 159.223.106.29 -  GeoIP Country Edition: US, United States -  
 159.65.159.214 -  GeoIP Country Edition: IN, India -  
@@ -31,11 +32,14 @@
 45.58.159.164 -  GeoIP Country Edition: US, United States -   customer.sharktech.net.
 45.58.159.209 -  GeoIP Country Edition: US, United States -   customer.sharktech.net.
 45.58.159.74 -  GeoIP Country Edition: US, United States -   customer.sharktech.net.
+64.225.9.170 -  GeoIP Country Edition: US, United States -  
 64.23.153.180 -  GeoIP Country Edition: US, United States -  
 68.183.197.169 -  GeoIP Country Edition: CA, Canada -  
+68.183.53.31 -  GeoIP Country Edition: US, United States -  
 
 --wget
 111.67.200.58 -  GeoIP Country Edition: CN, China -  
+117.200.156.55 -  GeoIP Country Edition: IN, India -  
 118.194.249.9 -  GeoIP Country Edition: CN, China -  
 120.28.168.233 -  GeoIP Country Edition: PH, Philippines -  
 123.166.155.122 -  GeoIP Country Edition: CN, China -  
@@ -46,8 +50,10 @@
 222.141.154.166 -  GeoIP Country Edition: CN, China -   hn.kd.ny.adsl.
 45.135.194.11 -  GeoIP Country Edition: DE, Germany -  
 45.135.194.34 -  GeoIP Country Edition: DE, Germany -  
+46.229.134.127 -  GeoIP Country Edition: RU, Russian Federation -  
 47.237.104.170 -  GeoIP Country Edition: US, United States -  
 47.237.170.36 -  GeoIP Country Edition: US, United States -  
+8.219.103.247 -  GeoIP Country Edition: SG, Singapore -  
 8.219.169.140 -  GeoIP Country Edition: SG, Singapore -  
 8.219.174.2 -  GeoIP Country Edition: SG, Singapore -  
 8.219.197.5 -  GeoIP Country Edition: SG, Singapore -  
@@ -58,7 +64,9 @@
 --luci/.stok=/
 141.98.11.147 -  GeoIP Country Edition: LT, Lithuania -  
 141.98.11.83 -  GeoIP Country Edition: LT, Lithuania -   srv-141-98-11-83.serveroffer.net.
+149.50.96.5 -  GeoIP Country Edition: IL, Israel -  
 176.65.148.10 -  GeoIP Country Edition: DE, Germany -   hosted-by.pfcloud.io.
+193.142.146.168 -  GeoIP Country Edition: NL, Netherlands -  
 195.3.221.137 -  GeoIP Country Edition: PL, Poland -   smtp9.munxkey.com.com.
 34.136.182.154 -  GeoIP Country Edition: US, United States -   154.182.136.34.bc.googleusercontent.com.
 34.9.27.97 -  GeoIP Country Edition: US, United States -   97.27.9.34.bc.googleusercontent.com.
