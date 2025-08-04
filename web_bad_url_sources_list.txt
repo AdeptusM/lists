@@ -10,6 +10,7 @@
 146.190.124.10 -  GeoIP Country Edition: US, United States -  
 157.230.130.80 -  GeoIP Country Edition: US, United States -  
 157.230.223.141 -  GeoIP Country Edition: US, United States -  
+157.230.56.224 -  GeoIP Country Edition: US, United States -  
 159.223.106.29 -  GeoIP Country Edition: US, United States -  
 159.65.159.214 -  GeoIP Country Edition: IN, India -  
 162.243.123.35 -  GeoIP Country Edition: US, United States -  
@@ -43,6 +44,7 @@
 118.194.249.9 -  GeoIP Country Edition: CN, China -  
 120.28.168.233 -  GeoIP Country Edition: PH, Philippines -  
 123.166.155.122 -  GeoIP Country Edition: CN, China -  
+141.98.10.150 -  GeoIP Country Edition: LT, Lithuania -  
 141.98.11.147 -  GeoIP Country Edition: LT, Lithuania -  
 156.196.96.254 -  GeoIP Country Edition: EG, Egypt -  
 157.148.122.56 -  GeoIP Country Edition: CN, China -  
@@ -58,6 +60,7 @@
 8.219.174.2 -  GeoIP Country Edition: SG, Singapore -  
 8.219.197.5 -  GeoIP Country Edition: SG, Singapore -  
 8.222.163.222 -  GeoIP Country Edition: SG, Singapore -  
+8.222.216.194 -  GeoIP Country Edition: SG, Singapore -  
 87.121.84.34 -  GeoIP Country Edition: BG, Bulgaria -  
 88.13.211.19 -  GeoIP Country Edition: ES, Spain -   19.red-88-13-211.dynamicip.rima-tde.net.
 
