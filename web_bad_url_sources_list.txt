@@ -20,6 +20,7 @@
 159.65.159.214 -  GeoIP Country Edition: IN, India -  
 159.65.196.35 -  GeoIP Country Edition: NL, Netherlands -  
 159.65.86.135 -  GeoIP Country Edition: GB, United Kingdom -  
+159.89.129.98 -  GeoIP Country Edition: US, United States -  
 162.243.123.35 -  GeoIP Country Edition: US, United States -  
 162.243.6.150 -  GeoIP Country Edition: US, United States -  
 164.92.248.97 -  GeoIP Country Edition: US, United States -  
@@ -42,6 +43,7 @@
 209.38.196.126 -  GeoIP Country Edition: US, United States -  
 209.38.90.32 -  GeoIP Country Edition: US, United States -  
 209.38.99.66 -  GeoIP Country Edition: US, United States -  
+24.199.123.124 -  GeoIP Country Edition: US, United States -  
 45.58.159.164 -  GeoIP Country Edition: US, United States -   customer.sharktech.net.
 45.58.159.209 -  GeoIP Country Edition: US, United States -   customer.sharktech.net.
 45.58.159.74 -  GeoIP Country Edition: US, United States -   customer.sharktech.net.
@@ -52,6 +54,7 @@
 
 --wget
 103.197.112.46 -  GeoIP Country Edition: IN, India -  
+104.239.177.48 -  GeoIP Country Edition: US, United States -  
 111.67.200.58 -  GeoIP Country Edition: CN, China -  
 117.200.156.55 -  GeoIP Country Edition: IN, India -  
 118.194.249.9 -  GeoIP Country Edition: CN, China -  
@@ -68,17 +71,21 @@
 175.107.2.118 -  GeoIP Country Edition: PK, Pakistan -  
 195.3.221.137 -  GeoIP Country Edition: PL, Poland -   smtp9.munxkey.com.com.
 197.45.251.28 -  GeoIP Country Edition: EG, Egypt -  
+197.60.167.5 -  GeoIP Country Edition: EG, Egypt -  
 222.141.154.166 -  GeoIP Country Edition: CN, China -   hn.kd.ny.adsl.
 222.246.90.64 -  GeoIP Country Edition: CN, China -  
 41.40.47.24 -  GeoIP Country Edition: EG, Egypt -  
 41.47.175.220 -  GeoIP Country Edition: EG, Egypt -  
 45.135.194.11 -  GeoIP Country Edition: DE, Germany -  
 45.135.194.34 -  GeoIP Country Edition: DE, Germany -  
+45.156.87.165 -  GeoIP Country Edition: DE, Germany -   hosted-by.vmheaven.io.
 46.229.134.127 -  GeoIP Country Edition: RU, Russian Federation -  
 47.237.104.170 -  GeoIP Country Edition: US, United States -  
 47.237.170.36 -  GeoIP Country Edition: US, United States -  
 59.178.158.200 -  GeoIP Country Edition: IN, India -   triband-del-59.178.158.200.bol.net.in.
+59.91.172.127 -  GeoIP Country Edition: IN, India -  
 70.80.175.4 -  GeoIP Country Edition: CA, Canada -   modemcable004.175-80-70.mc.videotron.ca.
+8.133.255.12 -  GeoIP Country Edition: CN, China -  
 8.210.161.193 -  GeoIP Country Edition: SG, Singapore -  
 8.219.103.247 -  GeoIP Country Edition: SG, Singapore -  
 8.219.136.190 -  GeoIP Country Edition: SG, Singapore -  
@@ -91,6 +98,7 @@
 8.222.173.105 -  GeoIP Country Edition: SG, Singapore -  
 8.222.216.194 -  GeoIP Country Edition: SG, Singapore -  
 87.121.84.34 -  GeoIP Country Edition: BG, Bulgaria -  
+87.121.84.42 -  GeoIP Country Edition: BG, Bulgaria -  
 88.13.211.19 -  GeoIP Country Edition: ES, Spain -   19.red-88-13-211.dynamicip.rima-tde.net.
 
 --luci/.stok=/
@@ -104,6 +112,7 @@
 34.9.27.97 -  GeoIP Country Edition: US, United States -   97.27.9.34.bc.googleusercontent.com.
 45.135.194.11 -  GeoIP Country Edition: DE, Germany -  
 45.135.194.34 -  GeoIP Country Edition: DE, Germany -  
+45.156.87.165 -  GeoIP Country Edition: DE, Germany -   hosted-by.vmheaven.io.
 45.194.66.13 -  GeoIP Country Edition: ZA, South Africa -  
 45.194.66.8 -  GeoIP Country Edition: ZA, South Africa -  
 5.183.209.244 -  GeoIP Country Edition: RO, Romania -  

