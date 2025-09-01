@@ -1,12 +1,13 @@
 --systembc
 128.199.23.56 -  GeoIP Country Edition: SG, Singapore -  
-128.199.47.6 -  GeoIP Country Edition: NL, Netherlands -  
+128.199.47.6 -  GeoIP Country Edition: NL, Netherlands -   en.allfinancelinks.com.
 134.122.41.92 -  GeoIP Country Edition: US, United States -  
 134.122.50.40 -  GeoIP Country Edition: US, United States -  
 134.122.80.36 -  GeoIP Country Edition: US, United States -  
 134.209.15.60 -  GeoIP Country Edition: US, United States -  
 137.184.131.27 -  GeoIP Country Edition: US, United States -  
 137.184.3.83 -  GeoIP Country Edition: US, United States -  
+138.197.130.35 -  GeoIP Country Edition: CA, Canada -  
 138.197.74.243 -  GeoIP Country Edition: US, United States -  
 143.198.150.108 -  GeoIP Country Edition: US, United States -  
 143.198.5.190 -  GeoIP Country Edition: US, United States -  
@@ -54,26 +55,53 @@
 
 --wget
 103.197.112.46 -  GeoIP Country Edition: IN, India -  
+103.4.235.86 -  GeoIP Country Edition: AU, Australia -   android-3.
 104.239.177.48 -  GeoIP Country Edition: US, United States -  
+109.229.125.164 -  GeoIP Country Edition: RU, Russian Federation -   164-125-229-109.broadband.telenettv.ru.
 111.67.200.58 -  GeoIP Country Edition: CN, China -  
 117.200.156.55 -  GeoIP Country Edition: IN, India -  
 118.194.249.9 -  GeoIP Country Edition: CN, China -  
 118.194.249.90 -  GeoIP Country Edition: CN, China -   wmvbh.space.
+118.43.117.160 -  GeoIP Country Edition: KR, Korea, Republic of -  
 120.28.168.233 -  GeoIP Country Edition: PH, Philippines -  
 120.85.187.228 -  GeoIP Country Edition: CN, China -  
+120.86.236.47 -  GeoIP Country Edition: CN, China -  
+121.121.98.61 -  GeoIP Country Edition: MY, Malaysia -  
+121.167.125.180 -  GeoIP Country Edition: KR, Korea, Republic of -  
+122.199.74.31 -  GeoIP Country Edition: KR, Korea, Republic of -  
 123.166.155.122 -  GeoIP Country Edition: CN, China -  
+124.146.160.153 -  GeoIP Country Edition: JP, Japan -  
+125.139.58.46 -  GeoIP Country Edition: KR, Korea, Republic of -  
+125.139.96.146 -  GeoIP Country Edition: KR, Korea, Republic of -  
+131.100.222.160 -  GeoIP Country Edition: BR, Brazil -  
+138.36.100.75 -  GeoIP Country Edition: BR, Brazil -   75-100-36-138.syncontel.net.br.
 141.98.10.150 -  GeoIP Country Edition: LT, Lithuania -  
 141.98.11.147 -  GeoIP Country Edition: LT, Lithuania -  
+14.33.215.88 -  GeoIP Country Edition: KR, Korea, Republic of -  
 156.192.237.35 -  GeoIP Country Edition: EG, Egypt -  
 156.196.96.254 -  GeoIP Country Edition: EG, Egypt -  
 157.148.122.56 -  GeoIP Country Edition: CN, China -  
+160.39.24.114 -  GeoIP Country Edition: US, United States -   dyn-160-39-24-114.dyn.columbia.edu.
 170.253.56.193 -  GeoIP Country Edition: ES, Spain -  
+170.82.23.165 -  GeoIP Country Edition: BR, Brazil -   165.23.82.170.chavesnet.net.br.
 175.107.2.118 -  GeoIP Country Edition: PK, Pakistan -  
+175.208.20.113 -  GeoIP Country Edition: KR, Korea, Republic of -  
+176.226.251.154 -  GeoIP Country Edition: RU, Russian Federation -   pool-176-226-251-154.is74.ru.
+181.119.111.71 -  GeoIP Country Edition: AR, Argentina -   71.111.119.181.ufinet.com.gt.
+183.106.42.146 -  GeoIP Country Edition: KR, Korea, Republic of -  
+187.224.221.158 -  GeoIP Country Edition: MX, Mexico -   dsl-187-224-221-158-dyn.prod-infinitum.com.mx.
+191.96.219.93 -  GeoIP Country Edition: IL, Israel -  
 195.3.221.137 -  GeoIP Country Edition: PL, Poland -   smtp9.munxkey.com.com.
 197.45.251.28 -  GeoIP Country Edition: EG, Egypt -  
 197.60.167.5 -  GeoIP Country Edition: EG, Egypt -  
+202.42.67.10 -  GeoIP Country Edition: SG, Singapore -   kinvpn.kinergy.com.sg.
+206.220.191.144 -  GeoIP Country Edition: CA, Canada -  
+211.230.209.244 -  GeoIP Country Edition: KR, Korea, Republic of -  
+218.158.250.34 -  GeoIP Country Edition: KR, Korea, Republic of -  
+222.105.81.80 -  GeoIP Country Edition: KR, Korea, Republic of -  
 222.141.154.166 -  GeoIP Country Edition: CN, China -   hn.kd.ny.adsl.
 222.246.90.64 -  GeoIP Country Edition: CN, China -  
+2.87.184.148 -  GeoIP Country Edition: GR, Greece -   ppp-2-87-184-148.home.otenet.gr.
 41.40.47.24 -  GeoIP Country Edition: EG, Egypt -  
 41.47.175.220 -  GeoIP Country Edition: EG, Egypt -  
 45.135.194.11 -  GeoIP Country Edition: DE, Germany -  
@@ -82,9 +110,12 @@
 46.229.134.127 -  GeoIP Country Edition: RU, Russian Federation -  
 47.237.104.170 -  GeoIP Country Edition: US, United States -  
 47.237.170.36 -  GeoIP Country Edition: US, United States -  
+58.40.8.206 -  GeoIP Country Edition: CN, China -  
+59.1.211.226 -  GeoIP Country Edition: KR, Korea, Republic of -  
 59.178.158.200 -  GeoIP Country Edition: IN, India -   triband-del-59.178.158.200.bol.net.in.
 59.91.172.127 -  GeoIP Country Edition: IN, India -  
 70.80.175.4 -  GeoIP Country Edition: CA, Canada -   modemcable004.175-80-70.mc.videotron.ca.
+77.98.100.148 -  GeoIP Country Edition: GB, United Kingdom -   cpc153871-wake10-2-0-cust147.17-1.cable.virginm.net.
 8.133.255.12 -  GeoIP Country Edition: CN, China -  
 8.210.161.193 -  GeoIP Country Edition: SG, Singapore -  
 8.219.103.247 -  GeoIP Country Edition: SG, Singapore -  
@@ -100,14 +131,42 @@
 87.121.84.34 -  GeoIP Country Edition: BG, Bulgaria -  
 87.121.84.42 -  GeoIP Country Edition: BG, Bulgaria -  
 88.13.211.19 -  GeoIP Country Edition: ES, Spain -   19.red-88-13-211.dynamicip.rima-tde.net.
+88.175.75.20 -  GeoIP Country Edition: FR, France -   88-175-75-20.subs.proxad.net.
+91.169.235.135 -  GeoIP Country Edition: FR, France -   91-169-235-135.subs.proxad.net.
 
 --luci/.stok=/
+103.4.235.86 -  GeoIP Country Edition: AU, Australia -   android-3.
+109.229.125.164 -  GeoIP Country Edition: RU, Russian Federation -   164-125-229-109.broadband.telenettv.ru.
+118.43.117.160 -  GeoIP Country Edition: KR, Korea, Republic of -  
+121.121.98.61 -  GeoIP Country Edition: MY, Malaysia -  
+121.167.125.180 -  GeoIP Country Edition: KR, Korea, Republic of -  
+122.199.74.31 -  GeoIP Country Edition: KR, Korea, Republic of -  
+124.146.160.153 -  GeoIP Country Edition: JP, Japan -  
+125.139.58.46 -  GeoIP Country Edition: KR, Korea, Republic of -  
+125.139.96.146 -  GeoIP Country Edition: KR, Korea, Republic of -  
+131.100.222.160 -  GeoIP Country Edition: BR, Brazil -  
+138.36.100.75 -  GeoIP Country Edition: BR, Brazil -   75-100-36-138.syncontel.net.br.
 141.98.11.147 -  GeoIP Country Edition: LT, Lithuania -  
 141.98.11.83 -  GeoIP Country Edition: LT, Lithuania -   srv-141-98-11-83.serveroffer.net.
+14.33.215.88 -  GeoIP Country Edition: KR, Korea, Republic of -  
 149.50.96.5 -  GeoIP Country Edition: IL, Israel -  
+160.39.24.114 -  GeoIP Country Edition: US, United States -   dyn-160-39-24-114.dyn.columbia.edu.
+170.82.23.165 -  GeoIP Country Edition: BR, Brazil -   165.23.82.170.chavesnet.net.br.
+175.208.20.113 -  GeoIP Country Edition: KR, Korea, Republic of -  
+176.226.251.154 -  GeoIP Country Edition: RU, Russian Federation -   pool-176-226-251-154.is74.ru.
 176.65.148.10 -  GeoIP Country Edition: DE, Germany -   hosted-by.pfcloud.io.
+181.119.111.71 -  GeoIP Country Edition: AR, Argentina -   71.111.119.181.ufinet.com.gt.
+183.106.42.146 -  GeoIP Country Edition: KR, Korea, Republic of -  
+187.224.221.158 -  GeoIP Country Edition: MX, Mexico -   dsl-187-224-221-158-dyn.prod-infinitum.com.mx.
+191.96.219.93 -  GeoIP Country Edition: IL, Israel -  
 193.142.146.168 -  GeoIP Country Edition: NL, Netherlands -  
 195.3.221.137 -  GeoIP Country Edition: PL, Poland -   smtp9.munxkey.com.com.
+202.42.67.10 -  GeoIP Country Edition: SG, Singapore -   kinvpn.kinergy.com.sg.
+206.220.191.144 -  GeoIP Country Edition: CA, Canada -  
+211.230.209.244 -  GeoIP Country Edition: KR, Korea, Republic of -  
+218.158.250.34 -  GeoIP Country Edition: KR, Korea, Republic of -  
+222.105.81.80 -  GeoIP Country Edition: KR, Korea, Republic of -  
+2.87.184.148 -  GeoIP Country Edition: GR, Greece -   ppp-2-87-184-148.home.otenet.gr.
 34.136.182.154 -  GeoIP Country Edition: US, United States -   154.182.136.34.bc.googleusercontent.com.
 34.9.27.97 -  GeoIP Country Edition: US, United States -   97.27.9.34.bc.googleusercontent.com.
 45.135.194.11 -  GeoIP Country Edition: DE, Germany -  
@@ -117,7 +176,12 @@
 45.194.66.8 -  GeoIP Country Edition: ZA, South Africa -  
 5.183.209.244 -  GeoIP Country Edition: RO, Romania -  
 5.79.105.22 -  GeoIP Country Edition: NL, Netherlands -   hosted-by.hostdzire.com.
+58.40.8.206 -  GeoIP Country Edition: CN, China -  
+59.1.211.226 -  GeoIP Country Edition: KR, Korea, Republic of -  
+77.98.100.148 -  GeoIP Country Edition: GB, United Kingdom -   cpc153871-wake10-2-0-cust147.17-1.cable.virginm.net.
 87.121.84.179 -  GeoIP Country Edition: BG, Bulgaria -  
 87.121.84.34 -  GeoIP Country Edition: BG, Bulgaria -  
+88.175.75.20 -  GeoIP Country Edition: FR, France -   88-175-75-20.subs.proxad.net.
 89.42.231.140 -  GeoIP Country Edition: RO, Romania -  
+91.169.235.135 -  GeoIP Country Edition: FR, France -   91-169-235-135.subs.proxad.net.
 
